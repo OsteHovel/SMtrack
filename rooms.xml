@@ -1,0 +1,2091 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rooms>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Landing Site</deanydName>
+        <address>0x791F8</address>
+        <area>CRATERIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Gauntlet Entrance</deanydName>
+        <address>0x792B3</address>
+        <area>CRATERIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Parlor and Alcatraz</deanydName>
+        <address>0x792FD</address>
+        <area>CRATERIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Power Bomb Room</deanydName>
+        <address>0x793AA</address>
+        <area>CRATERIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname>Save room</altname>
+        <deanydName></deanydName>
+        <address>0x793D5</address>
+        <area>CRATERIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>West Ocean</deanydName>
+        <address>0x793FE</address>
+        <area>CRATERIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Bowling Alley Path</deanydName>
+        <address>0x79461</address>
+        <area>CRATERIA</area>
+        <description>Pancake room</description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Crateria Keyhunter Room</deanydName>
+        <address>0x7948C</address>
+        <area>CRATERIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name>Elevator to Brinstar</name>
+        <altname></altname>
+        <deanydName></deanydName>
+        <address>0x794CC</address>
+        <area>CRATERIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>East Ocean</deanydName>
+        <address>0x794FD</address>
+        <area>CRATERIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Forgotten Highway Kago Room</deanydName>
+        <address>0x79552</address>
+        <area>CRATERIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Crab Maze</deanydName>
+        <address>0x7957D</address>
+        <area>CRATERIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name>Elevator to Maridia</name>
+        <altname></altname>
+        <deanydName></deanydName>
+        <address>0x795A8</address>
+        <area>CRATERIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Crateria Tube</deanydName>
+        <address>0x795D4</address>
+        <area>CRATERIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname>Lake</altname>
+        <deanydName>The Moat</deanydName>
+        <address>0x795FF</address>
+        <area>CRATERIA</area>
+        <description>CWJ-room</description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Elevator to Brinstar</deanydName>
+        <address>0x7962A</address>
+        <area>CRATERIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Gauntlet Energy Tank Room</deanydName>
+        <address>0x7965B</address>
+        <area>CRATERIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>West Ocean (Bridge)</deanydName>
+        <address>0x7968F</address>
+        <area>CRATERIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Climb</deanydName>
+        <address>0x796BA</address>
+        <area>CRATERIA</area>
+        <description>Walljump heaven</description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Pit Room</deanydName>
+        <address>0x7975C</address>
+        <area>CRATERIA</area>
+        <description>Pitless anyone?</description>
+    </room>
+    <room>
+        <name>Elevator to Blue Brinstar</name>
+        <altname></altname>
+        <deanydName></deanydName>
+        <address>0x797B5</address>
+        <area>CRATERIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Bomb Torizo Room</deanydName>
+        <address>0x79804</address>
+        <area>CRATERIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Flyway</deanydName>
+        <address>0x79879</address>
+        <area>CRATERIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Pre-Map Flyway</deanydName>
+        <address>0x798E2</address>
+        <area>CRATERIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Terminator Room</deanydName>
+        <address>0x7990D</address>
+        <area>CRATERIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name>Elevator to Brinstar</name>
+        <altname></altname>
+        <deanydName></deanydName>
+        <address>0x79938</address>
+        <area>CRATERIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Lower Mushrooms</deanydName>
+        <address>0x79969</address>
+        <area>CRATERIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name>Maproom</name>
+        <altname></altname>
+        <deanydName></deanydName>
+        <address>0x79994</address>
+        <area>CRATERIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Green Pirates Shaft</deanydName>
+        <address>0x799BD</address>
+        <area>CRATERIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name>Super Room</name>
+        <altname></altname>
+        <deanydName>Crateria Super Room</deanydName>
+        <address>0x799F9</address>
+        <area>CRATERIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Final Missile Bombway</deanydName>
+        <address>0x79A44</address>
+        <area>CRATERIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>The Final Missile</deanydName>
+        <address>0x79A90</address>
+        <area>CRATERIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Green Brinstar Main Shaft</deanydName>
+        <address>0x79AD9</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Spore Spawn Super Room</deanydName>
+        <address>0x79B5B</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name>Pre-Map Room</name>
+        <altname></altname>
+        <deanydName>Brinstar Pre-Map Room</deanydName>
+        <address>0x79B9D</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Early Supers Room</deanydName>
+        <address>0x79BC8</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name>Reserve Tank Room</name>
+        <altname></altname>
+        <deanydName>Brinstar Reserve Tank Room</deanydName>
+        <address>0x79C07</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name>Map Room</name>
+        <altname></altname>
+        <deanydName>Brinstar Map Room</deanydName>
+        <address>0x79C35</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Green Brinstar Fireflea Room</deanydName>
+        <address>0x79C5E</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name>Missile Station</name>
+        <altname></altname>
+        <deanydName></deanydName>
+        <address>0x79C89</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Dachora Room</deanydName>
+        <address>0x79CB3</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Big Pink</deanydName>
+        <address>0x79D19</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Spore Spawn Keyhunter Room</deanydName>
+        <address>0x79D9C</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Spore Spawn Room</deanydName>
+        <address>0x79DC7</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Pink Brinstar Power Bomb Room</deanydName>
+        <address>0x79E11</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Green Hill Zone</deanydName>
+        <address>0x79E52</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Morph Ball Room</deanydName>
+        <address>0x79E9F</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Construction Zone</deanydName>
+        <address>0x79F11</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Blue Brinstar Energy Tank Room</deanydName>
+        <address>0x79F64</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Noob Bridge</deanydName>
+        <address>0x79FBA</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Green Brinstar Beetom Room</deanydName>
+        <address>0x79FE5</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Etecoon Energy Tank Room</deanydName>
+        <address>0x7A011</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Etecoon Super Room</deanydName>
+        <address>0x7A051</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Energy Charge Station</deanydName>
+        <address>0x7A07B</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Spore Spawn Farming Room</deanydName>
+        <address>0x7A0A4</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Waterway Energy Tank Room</deanydName>
+        <address>0x7A0D2</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>First Missile Room</deanydName>
+        <address>0x7A107</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Pink Brinstar Hopper Room</deanydName>
+        <address>0x7A130</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Hopper Energy Tank Room</deanydName>
+        <address>0x7A15B</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Save Room</deanydName>
+        <address>0x7A184</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Blue Brinstar Boulder Room</deanydName>
+        <address>0x7A1AD</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname>Billy Mays Room</altname>
+        <deanydName>Blue Brinstar Double Missile Room</deanydName>
+        <address>0x7A1D8</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name>Save room</name>
+        <altname></altname>
+        <deanydName></deanydName>
+        <address>0x7A201</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name>Save Room</name>
+        <altname></altname>
+        <deanydName></deanydName>
+        <address>0x7A22A</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Red Tower</deanydName>
+        <address>0x7A253</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Red Brinstar Fireflea Room</deanydName>
+        <address>0x7A293</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>X-Ray Scope Room</deanydName>
+        <address>0x7A2CE</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Hellway</deanydName>
+        <address>0x7A2F7</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Caterpillar Room</deanydName>
+        <address>0x7A322</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Beta Power Bomb Room</deanydName>
+        <address>0x7A37C</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Alpha Power Bomb Room</deanydName>
+        <address>0x7A3AE</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Bat Room</deanydName>
+        <address>0x7A3DD</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Below Spazer</deanydName>
+        <address>0x7A408</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Spazer Room</deanydName>
+        <address>0x7A447</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Warehouse Zeela Room</deanydName>
+        <address>0x7A471</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Warehouse Energy Tank Room</deanydName>
+        <address>0x7A4B1</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Warehouse Keyhunter Room</deanydName>
+        <address>0x7A4DA</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Baby Kraid Room</deanydName>
+        <address>0x7A521</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Kraid Eye Door Room</deanydName>
+        <address>0x7A56B</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Kraid Room</deanydName>
+        <address>0x7A59F</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Statues Hallway</deanydName>
+        <address>0x7A5ED</address>
+        <area>CRATERIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name>Recharge Room</name>
+        <altname></altname>
+        <deanydName></deanydName>
+        <address>0x7A618</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name>Recharge Room</name>
+        <altname></altname>
+        <deanydName></deanydName>
+        <address>0x7A641</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Statues Room</deanydName>
+        <address>0x7A66A</address>
+        <area>CRATERIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Warehouse Entrance</deanydName>
+        <address>0x7A6A1</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Varia Suit Room</deanydName>
+        <address>0x7A6E2</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name>Save Room</name>
+        <altname></altname>
+        <deanydName></deanydName>
+        <address>0x7A70B</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name>Save Room</name>
+        <altname></altname>
+        <deanydName></deanydName>
+        <address>0x7A734</address>
+        <area>BRINSTAR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Ice Beam Acid Room</deanydName>
+        <address>0x7A75D</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Cathedral</deanydName>
+        <address>0x7A788</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Cathedral Entrance</deanydName>
+        <address>0x7A7B3</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Business Center</deanydName>
+        <address>0x7A7DE</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Ice Beam Gate Room</deanydName>
+        <address>0x7A815</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Ice Beam Tutorial Room</deanydName>
+        <address>0x7A865</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Ice Beam Room</deanydName>
+        <address>0x7A890</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Ice Beam Snake Room</deanydName>
+        <address>0x7A8B9</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Crumble Shaft</deanydName>
+        <address>0x7A8F8</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Crocomire Speedway</deanydName>
+        <address>0x7A923</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Crocomire's Room</deanydName>
+        <address>0x7A98D</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Hi Jump Boots Room</deanydName>
+        <address>0x7A9E5</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Crocomire Escape</deanydName>
+        <address>0x7AA0E</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Hi Jump Energy Tank Room</deanydName>
+        <address>0x7AA41</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Post Crocomire Farming Room</deanydName>
+        <address>0x7AA82</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name>Save Room</name>
+        <altname></altname>
+        <deanydName></deanydName>
+        <address>0x7AAB5</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Post Crocomire Power Bomb Room</deanydName>
+        <address>0x7AADE</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Post Crocomire Shaft</deanydName>
+        <address>0x7AB07</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname>Sine Room</altname>
+        <deanydName>Post Crocomire Missile Room</deanydName>
+        <address>0x7AB3B</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Grapple Tutorial Room 3</deanydName>
+        <address>0x7AB64</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Post Crocomire Jump Room</deanydName>
+        <address>0x7AB8F</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Grapple Tutorial Room 2</deanydName>
+        <address>0x7ABD2</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Grapple Tutorial Room 1</deanydName>
+        <address>0x7AC00</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Grapple Beam Room</deanydName>
+        <address>0x7AC2B</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name>Reserve Tank Room</name>
+        <altname></altname>
+        <deanydName>Norfair Reserve Tank Room</deanydName>
+        <address>0x7AC5A</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Green Bubbles Missile Room</deanydName>
+        <address>0x7AC83</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Bubble Mountain</deanydName>
+        <address>0x7ACB3</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Speed Booster Hall</deanydName>
+        <address>0x7ACF0</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Speed Booster Room</deanydName>
+        <address>0x7AD1B</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Single Chamber</deanydName>
+        <address>0x7AD5E</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname>Wave Missile Room</altname>
+        <deanydName>Double Chamber</deanydName>
+        <address>0x7ADAD</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Wave Beam Room</deanydName>
+        <address>0x7ADDE</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Spiky Platforms Tunnel</deanydName>
+        <address>0x7AE07</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Volcano Room</deanydName>
+        <address>0x7AE32</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Kronic Boost Room</deanydName>
+        <address>0x7AE74</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Magdollite Tunnel</deanydName>
+        <address>0x7AEB4</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Purple Shaft</deanydName>
+        <address>0x7AEDF</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Lava Dive Room</deanydName>
+        <address>0x7AF14</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name>Elevator to Main Hall</name>
+        <altname></altname>
+        <deanydName></deanydName>
+        <address>0x7AF3F</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Upper Norfair Farming Room</deanydName>
+        <address>0x7AF72</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Rising Tide</deanydName>
+        <address>0x7AFA3</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Acid Snakes Tunnel</deanydName>
+        <address>0x7AFCE</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Spiky Acid Snakes Tunnel</deanydName>
+        <address>0x7AFFB</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name>Recharge Room</name>
+        <altname></altname>
+        <deanydName></deanydName>
+        <address>0x7B026</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Purple Farming Room</deanydName>
+        <address>0x7B051</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Bat Cave</deanydName>
+        <address>0x7B07A</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Norfair Map Room</deanydName>
+        <address>0x7B0B4</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Save Room</deanydName>
+        <address>0x7B0DD</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Frog Speedway</deanydName>
+        <address>0x7B106</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Red Pirate Shaft</deanydName>
+        <address>0x7B139</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Save Room</deanydName>
+        <address>0x7B167</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name>Save Room</name>
+        <altname></altname>
+        <deanydName></deanydName>
+        <address>0x7B192</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name>Save Room</name>
+        <altname></altname>
+        <deanydName></deanydName>
+        <address>0x7B1BB</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Acid Statue Room</deanydName>
+        <address>0x7B1E5</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Main Hall</deanydName>
+        <address>0x7B236</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Golden Torizo's Room</deanydName>
+        <address>0x7B283</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Fast Ripper Room</deanydName>
+        <address>0x7B2DA</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Energy Recharge Room</deanydName>
+        <address>0x7B305</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Ridley's Room</deanydName>
+        <address>0x7B32E</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Lower Norfair Farming Room</deanydName>
+        <address>0x7B37A</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Fast Pillars Setup Room</deanydName>
+        <address>0x7B3A5</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Mickey Mouse Room</deanydName>
+        <address>0x7B40A</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Pillar Room</deanydName>
+        <address>0x7B457</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Plowerhouse Room</deanydName>
+        <address>0x7B482</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>The Worst Room In The Game</deanydName>
+        <address>0x7B4AD</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Amphitheatre</deanydName>
+        <address>0x7B4E5</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Lower Norfair Spring Ball Maze Room</deanydName>
+        <address>0x7B510</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Lower Norfair Escape Power Bomb Room</deanydName>
+        <address>0x7B55A</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Red Keyhunter Shaft</deanydName>
+        <address>0x7B585</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Wasteland</deanydName>
+        <address>0x7B5D5</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Metal Pirates Room</deanydName>
+        <address>0x7B62B</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Three Muskateers' Room</deanydName>
+        <address>0x7B656</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Ridley Tank Room</deanydName>
+        <address>0x7B698</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Screw Attack Room</deanydName>
+        <address>0x7B6C1</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Lower Norfair Fireflea Room</deanydName>
+        <address>0x7B6EE</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name>Save Room</name>
+        <altname></altname>
+        <deanydName></deanydName>
+        <address>0x7B741</address>
+        <area>NORFAIR</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Bowling Alley</deanydName>
+        <address>0x7C98E</address>
+        <area>WRECKEDSHIP</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Wrecked Ship Entrance</deanydName>
+        <address>0x7CA08</address>
+        <area>WRECKEDSHIP</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Attic</deanydName>
+        <address>0x7CA52</address>
+        <area>WRECKEDSHIP</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Wrecked Ship East Missile Room</deanydName>
+        <address>0x7CAAE</address>
+        <area>WRECKEDSHIP</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Wrecked Ship Main Shaft</deanydName>
+        <address>0x7CAF6</address>
+        <area>WRECKEDSHIP</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Spiky Death Room</deanydName>
+        <address>0x7CB8B</address>
+        <area>WRECKEDSHIP</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Electric Death Room</deanydName>
+        <address>0x7CBD5</address>
+        <area>WRECKEDSHIP</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Wrecked Ship Energy Tank Room</deanydName>
+        <address>0x7CC27</address>
+        <area>WRECKEDSHIP</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Basement</deanydName>
+        <address>0x7CC6F</address>
+        <area>WRECKEDSHIP</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Wrecked Ship Map Room</deanydName>
+        <address>0x7CCCB</address>
+        <area>WRECKEDSHIP</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Phantoon's Room</deanydName>
+        <address>0x7CD13</address>
+        <area>WRECKEDSHIP</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Sponge Bath</deanydName>
+        <address>0x7CD5C</address>
+        <area>WRECKEDSHIP</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Wrecked Ship West Super Room</deanydName>
+        <address>0x7CDA8</address>
+        <area>WRECKEDSHIP</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Wrecked Ship East Super Room</deanydName>
+        <address>0x7CDF1</address>
+        <area>WRECKEDSHIP</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Gravity Suit Room</deanydName>
+        <address>0x7CE40</address>
+        <area>WRECKEDSHIP</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Save Room</deanydName>
+        <address>0x7CE8A</address>
+        <area>WRECKEDSHIP</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Save Room</deanydName>
+        <address>0x7CED2</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Glass Tunnel</deanydName>
+        <address>0x7CEFB</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>West Tunnel</deanydName>
+        <address>0x7CF54</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>East Tunnel</deanydName>
+        <address>0x7CF80</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Main Street</deanydName>
+        <address>0x7CFC9</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Fish Tank</deanydName>
+        <address>0x7D017</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Mama Turtle Room</deanydName>
+        <address>0x7D055</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Crab Tunnel</deanydName>
+        <address>0x7D08A</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Mt. Everest</deanydName>
+        <address>0x7D0B9</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Red Fish Room</deanydName>
+        <address>0x7D104</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Watering Hole</deanydName>
+        <address>0x7D13B</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Northwest Maridia Bug Room</deanydName>
+        <address>0x7D16D</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Crab Shaft</deanydName>
+        <address>0x7D1A3</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Pseudo Plasma Spark Room</deanydName>
+        <address>0x7D1DD</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Crab Hole</deanydName>
+        <address>0x7D21C</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name>Tunnel between Crab Hole and West Sand Hall</name>
+        <altname></altname>
+        <deanydName></deanydName>
+        <address>0x7D252</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Plasma Tutorial Room</deanydName>
+        <address>0x7D27E</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Plasma Room</deanydName>
+        <address>0x7D2AA</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Thread The Needle Room</deanydName>
+        <address>0x7D2D9</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name>Elevator Room</name>
+        <altname></altname>
+        <deanydName>Maridia Elevator Room</deanydName>
+        <address>0x7D30B</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Plasma Spark Room</deanydName>
+        <address>0x7D340</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Kassiuz Room</deanydName>
+        <address>0x7D387</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name>Map Room</name>
+        <altname></altname>
+        <deanydName></deanydName>
+        <address>0x7D3B6</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name>Save Room</name>
+        <altname></altname>
+        <deanydName></deanydName>
+        <address>0x7D3DF</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name>Express tube</name>
+        <altname></altname>
+        <deanydName></deanydName>
+        <address>0x7D408</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Bug Sand Hole</deanydName>
+        <address>0x7D433</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>West Sand Hall</deanydName>
+        <address>0x7D461</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Oasis</deanydName>
+        <address>0x7D48E</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>East Sand Hall</deanydName>
+        <address>0x7D4C2</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>West Sand Hole</deanydName>
+        <address>0x7D4EF</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>East Sand Hole</deanydName>
+        <address>0x7D51E</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name>Tunnel to West Sand Hole</name>
+        <altname></altname>
+        <deanydName></deanydName>
+        <address>0x7D54D</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name>Tunnel to East Sand Hole</name>
+        <altname></altname>
+        <deanydName></deanydName>
+        <address>0x7D57A</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Aqueduct</deanydName>
+        <address>0x7D5A7</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Butterfly Room</deanydName>
+        <address>0x7D5EC</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Botwoon Hallway</deanydName>
+        <address>0x7D617</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Pants Room</deanydName>
+        <address>0x7D646</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name>Pants Room (from Shaktool room)</name>
+        <altname></altname>
+        <deanydName>Pants Room</deanydName>
+        <address>0x7D69A</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Spring Ball Room</deanydName>
+        <address>0x7D6D0</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Below Botwoon Energy Tank</deanydName>
+        <address>0x7D6FD</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Colosseum</deanydName>
+        <address>0x7D72A</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name>Save Room</name>
+        <altname></altname>
+        <deanydName></deanydName>
+        <address>0x7D765</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>The Precious Room</deanydName>
+        <address>0x7D78F</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Botwoon Energy Tank Room</deanydName>
+        <address>0x7D7E4</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name>Save Room</name>
+        <altname></altname>
+        <deanydName></deanydName>
+        <address>0x7D81A</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name>Recharge Room</name>
+        <altname></altname>
+        <deanydName></deanydName>
+        <address>0x7D845</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name>Sand pit</name>
+        <altname></altname>
+        <deanydName></deanydName>
+        <address>0x7D86E</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name>Tunnel to Below Botwoon Energy Tank</name>
+        <altname></altname>
+        <deanydName></deanydName>
+        <address>0x7D898</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Shaktool Room</deanydName>
+        <address>0x7D8C5</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Halfie Climb Room</deanydName>
+        <address>0x7D913</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Botwoon's Room</deanydName>
+        <address>0x7D95E</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Space Jump Room</deanydName>
+        <address>0x7D9AA</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name>Recharge Room</name>
+        <altname></altname>
+        <deanydName></deanydName>
+        <address>0x7D9D4</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name>Cactus Alley (Part 2)</name>
+        <altname></altname>
+        <deanydName>Cactus Alley</deanydName>
+        <address>0x7D9FE</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name>Cactus Alley (Part 1)</name>
+        <altname></altname>
+        <deanydName>Cactus Alley</deanydName>
+        <address>0x7DA2B</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Draygon's Room</deanydName>
+        <address>0x7DA60</address>
+        <area>MARIDIA</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Tourian First Room</deanydName>
+        <address>0x7DAAE</address>
+        <area>TOURIAN</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Metroid Room 1</deanydName>
+        <address>0x7DAE1</address>
+        <area>TOURIAN</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Metroid Room 2</deanydName>
+        <address>0x7DB31</address>
+        <area>TOURIAN</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Metroid Room 3</deanydName>
+        <address>0x7DB7D</address>
+        <area>TOURIAN</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Metroid Room 4</deanydName>
+        <address>0x7DBCD</address>
+        <area>TOURIAN</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Blue Hopper Room</deanydName>
+        <address>0x7DC19</address>
+        <area>TOURIAN</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Dust Torizo Room</deanydName>
+        <address>0x7DC65</address>
+        <area>TOURIAN</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Big Boy Room</deanydName>
+        <address>0x7DCB1</address>
+        <area>TOURIAN</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Seaweed Room</deanydName>
+        <address>0x7DCFF</address>
+        <area>TOURIAN</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Tourian Recharge Room</deanydName>
+        <address>0x7DD2E</address>
+        <area>TOURIAN</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Mother Brain Room</deanydName>
+        <address>0x7DD58</address>
+        <area>TOURIAN</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Tourian Eye Door Room</deanydName>
+        <address>0x7DDC4</address>
+        <area>TOURIAN</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Rinka Shaft</deanydName>
+        <address>0x7DDF3</address>
+        <area>TOURIAN</area>
+        <description></description>
+    </room>
+    <room>
+        <name>Save Room</name>
+        <altname></altname>
+        <deanydName></deanydName>
+        <address>0x7DE23</address>
+        <area>TOURIAN</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Tourian Escape Room 1</deanydName>
+        <address>0x7DE4D</address>
+        <area>TOURIAN</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Tourian Escape Room 2</deanydName>
+        <address>0x7DE7A</address>
+        <area>TOURIAN</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Tourian Escape Room 3</deanydName>
+        <address>0x7DEA7</address>
+        <area>TOURIAN</area>
+        <description></description>
+    </room>
+    <room>
+        <name></name>
+        <altname></altname>
+        <deanydName>Tourian Escape Room 4</deanydName>
+        <address>0x7DEDE</address>
+        <area>TOURIAN</area>
+        <description></description>
+    </room>
+    <room>
+        <name>Save Room</name>
+        <altname></altname>
+        <deanydName></deanydName>
+        <address>0x7DF1B</address>
+        <area>TOURIAN</area>
+        <description></description>
+    </room>
+    <room>
+        <name>Elevator Room</name>
+        <altname></altname>
+        <deanydName></deanydName>
+        <address>0x7DF45</address>
+        <area>CERES</area>
+        <description></description>
+    </room>
+    <room>
+        <name>"Ceiling RNG"</name>
+        <altname></altname>
+        <deanydName></deanydName>
+        <address>0x7DF8D</address>
+        <area>CERES</area>
+        <description></description>
+    </room>
+    <room>
+        <name>Stairs</name>
+        <altname></altname>
+        <deanydName></deanydName>
+        <address>0x7DFD7</address>
+        <area>CERES</area>
+        <description></description>
+    </room>
+    <room>
+        <name>"Intro"</name>
+        <altname></altname>
+        <deanydName></deanydName>
+        <address>0x7E021</address>
+        <area>CERES</area>
+        <description></description>
+    </room>
+    <room>
+        <name>Hallway</name>
+        <altname></altname>
+        <deanydName></deanydName>
+        <address>0x7E06B</address>
+        <area>CERES</area>
+        <description></description>
+    </room>
+    <room>
+        <name>Boss</name>
+        <altname></altname>
+        <deanydName></deanydName>
+        <address>0x7E0B5</address>
+        <area>CERES</area>
+        <description></description>
+    </room>
+</rooms>

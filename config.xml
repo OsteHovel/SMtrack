@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<smsplit cycletime="250.0">
+    <capture method="SCREENCAPTURE">
+        <screencapture x="3866" y="59" width="908" height="692"/>
+        <windowcapture windowTitle="CAP - VNC Viewer" x="2234" y="27" width="907" height="691"/>
+    </capture>
+    <splitters method="NULLSPLIT">
+        <livesplit host="127.0.0.1" port="16834" timeout="1000"/>
+        <hotkeysplit itemSplitKeycode="0" delay="20"/>
+    </splitters>
+    <debug capture="false"/>
+    <itemboxes matching="true">
+        <itembox name="ItemSelect" duration="500">
+            <rectangle x="32.13656387665198" y="1.9075144508670512" width="1.0" height="1.0" r="80" g="189" b="61" tolerance="50" invert="false"/>
+            <rectangle x="44.33920704845815" y="1.4739884393063587" width="1.0" height="1.0" r="80" g="189" b="61" tolerance="50" invert="false"/>
+            <rectangle x="53.67841409691629" y="1.184971098265895" width="1.0" height="1.0" r="80" g="189" b="61" tolerance="50" invert="false"/>
+            <rectangle x="63.017621145374456" y="6.242774566473988" width="1.0" height="1.0" r="80" g="189" b="61" tolerance="50" invert="false"/>
+            <rectangle x="72.57709251101322" y="1.1849710982658963" width="1.0" height="1.0" r="80" g="189" b="61" tolerance="50" invert="false"/>
+            <action name="ItemSelect" matching="CONTAINS_INSENSITIVE" action="SPLIT"/>
+        </itembox>
+        <itembox name="Time" duration="500">
+            <rectangle x="76.5884396661187" y="12.895662695739134" width="0.4" height="1.8" r="193" g="192" b="6" tolerance="50" invert="false"/>
+            <rectangle x="77.65012216575448" y="12.895662695739132" width="0.4" height="1.8" r="193" g="192" b="6" tolerance="50" invert="false"/>
+            <rectangle x="79.7134396661187" y="12.895662695739132" width="0.4" height="1.8" r="193" g="192" b="6" tolerance="50" invert="false"/>
+            <rectangle x="80.91738216648291" y="12.895662695739132" width="0.4" height="1.8" r="193" g="192" b="6" tolerance="50" invert="false"/>
+            <rectangle x="74.63531466611869" y="12.895662695739135" width="0.4" height="1.8" r="193" g="192" b="6" tolerance="50" invert="false"/>
+            <action name="Time" matching="CONTAINS_INSENSITIVE" action="SPLIT"/>
+        </itembox>
+        <itembox name="Timer 1" duration="500">
+            <rectangle x="76.02763574972441" y="16.90881509657422" width="0.5" height="4.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="74.38701074972441" y="16.90881509657422" width="0.5" height="4.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="75.10418683187322" y="21.42104964213313" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="75.16826074972441" y="16.595662695739147" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="75.25586066703423" y="17.053532896863654" width="0.5" height="4.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="74.77342608214887" y="21.421049642133127" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="74.83750000000005" y="17.02981609660745" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="74.8148463340684" y="16.619379495995346" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="74.88367966539033" y="21.565767442422562" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="76.05028941565605" y="17.75340509805463" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="74.8148463340684" y="16.47466169570591" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="75.10418683187326" y="18.671411436633846" width="1.0" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="74.83750000000005" y="21.516067905579956" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="75.87596191456343" y="16.934797833160623" width="0.5" height="1.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="74.44266533242454" y="20.40802504010708" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="75.87596191456345" y="19.395000438081027" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="74.44266533242454" y="17.014392623319814" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="74.39648566703423" y="20.50304330355391" width="2.0" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="74.99393324863179" y="17.947822435186676" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="75.54520116483909" y="16.645362232581753" width="0.5" height="5.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="74.8148463340684" y="16.47466169570591" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="74.77342608214889" y="18.381975836054977" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="74.83750000000005" y="21.516067905579956" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="74.33241174918307" y="16.790080032871185" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="74.33241174918308" y="20.408025040107077" width="0.5" height="1.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="75.9862154978049" y="19.105564837502158" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="74.70459275082696" y="16.619379495995346" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="74.77342608214889" y="18.671411436633846" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="74.72724641675859" y="21.516067905579956" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="75.98621549780489" y="17.07951563345006" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="74.33241174918307" y="17.079515633450058" width="0.5" height="3.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="75.98621549780489" y="19.6844360386599" width="0.5" height="1.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="74.5943391675855" y="16.47466169570591" width="1.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="74.77342608214889" y="21.27633184184369" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="75.94003583241461" y="17.608687297765194" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="74.8148463340684" y="16.47466169570591" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="74.77342608214889" y="18.671411436633846" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="74.83750000000005" y="21.516067905579956" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="74.33241174918307" y="16.790080032871185" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="74.33241174918308" y="19.539718238370465" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="75.98621549780489" y="16.790080032871188" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="75.9862154978049" y="19.539718238370465" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="74.8148463340684" y="16.47466169570591" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="74.77342608214889" y="18.671411436633846" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="74.83750000000005" y="21.516067905579956" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="74.33241174918307" y="16.790080032871185" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="74.44266533242453" y="20.552742840396515" width="0.5" height="1.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="75.98621549780489" y="16.790080032871188" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="75.9862154978049" y="19.539718238370465" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <action name="Timer 1" matching="CONTAINS_INSENSITIVE" action="SPLIT"/>
+        </itembox>
+        <itembox name="Timer 2" duration="500">
+            <rectangle x="79.11473608048514" y="16.908815096574216" width="0.5" height="4.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="77.47411108048514" y="16.908815096574216" width="0.5" height="4.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="78.19128716263396" y="21.421049642133127" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="78.25536108048514" y="16.595662695739144" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="78.34296099779496" y="17.05353289686365" width="0.5" height="4.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="77.8605264129096" y="21.421049642133124" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="77.92460033076078" y="17.029816096607448" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="77.90194666482914" y="16.619379495995343" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="77.97077999615107" y="21.56576744242256" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="79.13738974641679" y="17.753405098054625" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="77.90194666482914" y="16.474661695705908" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="78.191287162634" y="18.671411436633843" width="1.0" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="77.92460033076078" y="21.516067905579952" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="78.96306224532417" y="16.93479783316062" width="0.5" height="1.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="77.52976566318527" y="20.408025040107077" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="78.96306224532418" y="19.395000438081023" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="77.52976566318527" y="17.01439262331981" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="77.48358599779496" y="20.503043303553905" width="2.0" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="78.08103357939252" y="17.947822435186673" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="78.63230149559982" y="16.64536223258175" width="0.5" height="5.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="77.90194666482914" y="16.474661695705908" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="77.86052641290962" y="18.381975836054973" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="77.92460033076078" y="21.516067905579952" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="77.4195120799438" y="16.79008003287118" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="77.41951207994381" y="20.408025040107074" width="0.5" height="1.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="79.07331582856564" y="19.105564837502154" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="77.7916930815877" y="16.619379495995343" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="77.86052641290962" y="18.671411436633843" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="77.81434674751932" y="21.516067905579952" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="79.07331582856563" y="17.079515633450058" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="77.4195120799438" y="17.079515633450054" width="0.5" height="3.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="79.07331582856563" y="19.684436038659896" width="0.5" height="1.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="77.68143949834624" y="16.474661695705908" width="1.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="77.86052641290962" y="21.276331841843685" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="79.02713616317534" y="17.60868729776519" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="77.90194666482914" y="16.474661695705908" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="77.86052641290962" y="18.671411436633843" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="77.92460033076078" y="21.516067905579952" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="77.4195120799438" y="16.79008003287118" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="77.41951207994381" y="19.53971823837046" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="79.07331582856563" y="16.790080032871185" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="79.07331582856564" y="19.53971823837046" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="77.90194666482914" y="16.474661695705908" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="77.86052641290962" y="18.671411436633843" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="77.92460033076078" y="21.516067905579952" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="77.4195120799438" y="16.79008003287118" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="77.52976566318526" y="20.552742840396512" width="0.5" height="1.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="79.07331582856563" y="16.790080032871185" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="79.07331582856564" y="19.53971823837046" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <action name="Timer 2" matching="CONTAINS_INSENSITIVE" action="SPLIT"/>
+        </itembox>
+        <itembox name="Timer 3" duration="500">
+            <rectangle x="85.1786831587652" y="17.05353289686365" width="0.5" height="4.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="83.5380581587652" y="17.05353289686365" width="0.5" height="4.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="84.255234240914" y="21.565767442422562" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="84.3193081587652" y="16.74038049602858" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="84.40690807607501" y="17.198250697153085" width="0.5" height="4.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="83.92447349118966" y="21.56576744242256" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="83.98854740904083" y="17.174533896896882" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="83.96589374310919" y="16.764097296284778" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="84.03472707443112" y="21.710485242711993" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="85.20133682469684" y="17.89812289834406" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="83.96589374310919" y="16.619379495995343" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="84.25523424091405" y="18.816129236923278" width="1.0" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="83.98854740904083" y="21.660785705869387" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="85.02700932360422" y="17.079515633450054" width="0.5" height="1.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="83.59371274146532" y="20.552742840396512" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="85.02700932360423" y="19.539718238370458" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="83.59371274146532" y="17.159110423609246" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="83.54753307607501" y="20.64776110384334" width="2.0" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="84.14498065767258" y="18.092540235476108" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="84.69624857387987" y="16.790080032871185" width="0.5" height="5.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="83.96589374310919" y="16.619379495995343" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="83.92447349118967" y="18.526693636344408" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="83.98854740904083" y="21.660785705869387" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="83.48345915822385" y="16.934797833160616" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="83.48345915822387" y="20.55274284039651" width="0.5" height="1.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="85.13726290684569" y="19.25028263779159" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="83.85564015986775" y="16.764097296284778" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="83.92447349118967" y="18.816129236923278" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="83.87829382579937" y="21.660785705869387" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="85.13726290684568" y="17.224233433739492" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="83.48345915822385" y="17.22423343373949" width="0.5" height="3.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="85.13726290684568" y="19.82915383894933" width="0.5" height="1.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="83.74538657662629" y="16.619379495995343" width="1.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="83.92447349118967" y="21.42104964213312" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="85.0910832414554" y="17.753405098054625" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="83.96589374310919" y="16.619379495995343" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="83.92447349118967" y="18.816129236923278" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="83.98854740904083" y="21.660785705869387" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="83.48345915822385" y="16.934797833160616" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="83.48345915822387" y="19.684436038659896" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="85.13726290684568" y="16.93479783316062" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="85.13726290684569" y="19.684436038659896" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="83.96589374310919" y="16.619379495995343" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="83.92447349118967" y="18.816129236923278" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="83.98854740904083" y="21.660785705869387" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="83.48345915822385" y="16.934797833160616" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="83.59371274146531" y="20.697460640685946" width="0.5" height="1.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="85.13726290684568" y="16.93479783316062" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="85.13726290684569" y="19.684436038659896" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <action name="Timer 3" matching="CONTAINS_INSENSITIVE" action="SPLIT"/>
+        </itembox>
+        <itembox name="Timer 4" duration="500">
+            <rectangle x="88.37603707276739" y="17.053532896863647" width="0.5" height="4.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="86.73541207276739" y="17.053532896863647" width="0.5" height="4.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="87.4525881549162" y="21.56576744242256" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="87.51666207276739" y="16.740380496028575" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="87.6042619900772" y="17.19825069715308" width="0.5" height="4.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="87.12182740519185" y="21.565767442422555" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="87.18590132304303" y="17.17453389689688" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="87.16324765711138" y="16.764097296284774" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="87.23208098843331" y="21.71048524271199" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="88.39869073869903" y="17.898122898344056" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="87.16324765711138" y="16.61937949599534" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="87.45258815491624" y="18.816129236923274" width="1.0" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="87.18590132304303" y="21.660785705869383" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="88.22436323760641" y="17.07951563345005" width="0.5" height="1.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="86.79106665546752" y="20.55274284039651" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="88.22436323760643" y="19.539718238370455" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="86.79106665546752" y="17.159110423609242" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="86.7448869900772" y="20.647761103843337" width="2.0" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="87.34233457167477" y="18.092540235476104" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="87.89360248788206" y="16.79008003287118" width="0.5" height="5.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="87.16324765711138" y="16.61937949599534" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="87.12182740519187" y="18.526693636344405" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="87.18590132304303" y="21.660785705869383" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="86.68081307222604" y="16.934797833160612" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="86.68081307222606" y="20.552742840396505" width="0.5" height="1.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="88.33461682084788" y="19.250282637791585" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="87.05299407386994" y="16.764097296284774" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="87.12182740519187" y="18.816129236923274" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="87.07564773980157" y="21.660785705869383" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="88.33461682084787" y="17.22423343373949" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="86.68081307222604" y="17.224233433739485" width="0.5" height="3.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="88.33461682084787" y="19.829153838949328" width="0.5" height="1.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="86.94274049062848" y="16.61937949599534" width="1.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="87.12182740519187" y="21.421049642133116" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="88.28843715545759" y="17.75340509805462" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="87.16324765711138" y="16.61937949599534" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="87.12182740519187" y="18.816129236923274" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="87.18590132304303" y="21.660785705869383" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="86.68081307222604" y="16.934797833160612" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="86.68081307222606" y="19.684436038659893" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="88.33461682084787" y="16.934797833160616" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="88.33461682084788" y="19.684436038659893" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="87.16324765711138" y="16.61937949599534" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="87.12182740519187" y="18.816129236923274" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="87.18590132304303" y="21.660785705869383" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="86.68081307222604" y="16.934797833160612" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="86.7910666554675" y="20.697460640685943" width="0.5" height="1.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="88.33461682084787" y="16.934797833160616" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="88.33461682084788" y="19.684436038659893" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <action name="Timer 4" matching="CONTAINS_INSENSITIVE" action="SPLIT"/>
+        </itembox>
+        <itembox name="Timer 5" duration="500">
+            <rectangle x="94.55023773428888" y="17.053532896863654" width="0.5" height="4.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="92.90961273428888" y="17.053532896863654" width="0.5" height="4.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="93.6267888164377" y="21.565767442422565" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="93.69086273428888" y="16.740380496028582" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="93.7784626515987" y="17.19825069715309" width="0.5" height="4.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="93.29602806671335" y="21.565767442422562" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="93.36010198456452" y="17.174533896896886" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="93.33744831863288" y="16.76409729628478" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="93.4062816499548" y="21.710485242711997" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="94.57289140022053" y="17.898122898344063" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="93.33744831863288" y="16.619379495995346" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="93.62678881643774" y="18.81612923692328" width="1.0" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="93.36010198456452" y="21.66078570586939" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="94.39856389912791" y="17.079515633450058" width="0.5" height="1.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="92.96526731698901" y="20.552742840396515" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="94.39856389912792" y="19.53971823837046" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="92.96526731698901" y="17.15911042360925" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="92.9190876515987" y="20.647761103843344" width="2.0" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="93.4062816499548" y="18.38197583605498" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="94.06780314940356" y="16.790080032871188" width="0.5" height="5.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="93.33744831863288" y="16.619379495995346" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="93.29602806671336" y="18.52669363634441" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="93.36010198456452" y="21.66078570586939" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="92.85501373374754" y="16.93479783316062" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="92.85501373374755" y="20.552742840396512" width="0.5" height="1.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="94.50881748236938" y="19.250282637791592" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="93.33744831863288" y="16.76409729628478" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="93.29602806671336" y="18.81612923692328" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="93.36010198456452" y="21.66078570586939" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="94.50881748236937" y="17.368951234028934" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="92.96526731698899" y="17.6583868346078" width="0.5" height="3.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="94.50881748236937" y="19.829153838949335" width="0.5" height="1.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="93.11694115214998" y="16.619379495995346" width="1.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="93.29602806671336" y="21.421049642133124" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="94.46263781697908" y="17.75340509805463" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="93.33744831863288" y="16.619379495995346" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="93.29602806671336" y="18.81612923692328" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="93.36010198456452" y="21.66078570586939" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="92.85501373374754" y="16.93479783316062" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="92.85501373374755" y="19.6844360386599" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="94.50881748236937" y="16.934797833160623" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="94.50881748236938" y="19.6844360386599" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="93.33744831863288" y="16.619379495995346" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="93.29602806671336" y="18.81612923692328" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="93.36010198456452" y="21.66078570586939" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="92.85501373374754" y="16.93479783316062" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="92.965267316989" y="20.69746064068595" width="0.5" height="1.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="94.50881748236937" y="16.934797833160623" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="94.50881748236938" y="19.6844360386599" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <action name="Timer 5" matching="CONTAINS_INSENSITIVE" action="SPLIT"/>
+        </itembox>
+        <itembox name="Timer 6" duration="500">
+            <rectangle x="97.6373380650496" y="17.19825069715309" width="0.5" height="4.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="95.9967130650496" y="17.19825069715309" width="0.5" height="4.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.71388914719842" y="21.710485242712" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.7779630650496" y="16.885098296318017" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.86556298235942" y="17.342968497442524" width="0.5" height="4.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.38312839747407" y="21.710485242711997" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.88821664829106" y="16.885098296318013" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.4245486493936" y="16.908815096574216" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.49338198071553" y="21.56576744242256" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="97.65999173098125" y="18.042840698633498" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.53480223263506" y="16.619379495995346" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.82414273043992" y="18.81612923692328" width="1.0" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.5574558985667" y="21.66078570586939" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="97.59591781313009" y="17.079515633450058" width="0.5" height="1.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.05236764774973" y="20.552742840396515" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="97.5959178131301" y="19.53971823837046" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.16262123099119" y="17.15911042360925" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.00618798235942" y="20.79247890413278" width="2.0" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.60363556395698" y="18.237258035765546" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="97.15490348016428" y="16.934797833160623" width="0.5" height="5.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.64505581587652" y="16.619379495995346" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.49338198071554" y="18.381975836054977" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.44720231532524" y="21.66078570586939" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.16262123099118" y="16.93479783316062" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.16262123099119" y="20.552742840396512" width="0.5" height="1.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="97.59591781313011" y="19.250282637791592" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.31429506615216" y="16.908815096574216" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.38312839747408" y="18.960847037212716" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.55745589856669" y="21.66078570586939" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="97.59591781313009" y="17.36895123402893" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="95.94211406450826" y="17.368951234028927" width="0.5" height="3.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="97.59591781313009" y="19.97387163923877" width="0.5" height="1.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.2040414829107" y="16.76409729628478" width="1.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.38312839747408" y="21.56576744242256" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="97.3292309812569" y="18.33227629921237" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.4245486493936" y="16.76409729628478" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.38312839747408" y="18.960847037212716" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.44720231532524" y="21.805503506158825" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="95.94211406450826" y="17.079515633450054" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="95.94211406450827" y="19.829153838949335" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="97.59591781313009" y="17.079515633450058" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="97.5959178131301" y="19.829153838949335" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.53480223263504" y="16.619379495995346" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.49338198071553" y="18.81612923692328" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.55745589856669" y="21.66078570586939" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.0523676477497" y="16.93479783316062" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.16262123099116" y="20.69746064068595" width="0.5" height="1.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="97.70617139637153" y="16.934797833160623" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="97.70617139637154" y="19.6844360386599" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <action name="Timer 6" matching="CONTAINS_INSENSITIVE" action="SPLIT"/>
+        </itembox>
+        <itembox name="Door horizontal transition" duration="500">
+            <rectangle x="10.0" y="15.0" width="15.0" height="75.0" r="0" g="0" b="0" tolerance="30" invert="false"/>
+            <rectangle x="69.07938257993385" y="14.565846599131692" width="15.0" height="75.0" r="0" g="0" b="0" tolerance="30" invert="false"/>
+            <action name="Door horizontal transition" matching="CONTAINS_INSENSITIVE" action="SPLIT"/>
+        </itembox>
+        <itembox name="Door horizontal" duration="500">
+            <rectangle x="45.0" y="15.0" width="10.0" height="9.0" r="0" g="0" b="0" tolerance="30" invert="false"/>
+            <rectangle x="45.0" y="25.0" width="10.0" height="9.0" r="0" g="0" b="0" tolerance="30" invert="false"/>
+            <rectangle x="45.0" y="35.0" width="10.0" height="9.0" r="0" g="0" b="0" tolerance="30" invert="false"/>
+            <rectangle x="45.0" y="45.0" width="10.0" height="9.0" r="0" g="0" b="0" tolerance="30" invert="false"/>
+            <rectangle x="45.0" y="55.0" width="10.0" height="9.0" r="0" g="0" b="0" tolerance="30" invert="false"/>
+            <rectangle x="45.0" y="65.0" width="10.0" height="9.0" r="0" g="0" b="0" tolerance="30" invert="false"/>
+            <rectangle x="45.0" y="75.0" width="10.0" height="9.0" r="0" g="0" b="0" tolerance="30" invert="false"/>
+            <rectangle x="45.0" y="85.0" width="10.0" height="9.0" r="0" g="0" b="0" tolerance="30" invert="false"/>
+            <action name="Door horizontal" matching="CONTAINS_INSENSITIVE" action="SPLIT"/>
+        </itembox>
+        <itembox name="Door vertical transition" duration="500">
+            <rectangle x="1.0" y="27.670043415340086" width="98.0" height="10.0" r="0" g="0" b="0" tolerance="30" invert="false"/>
+            <rectangle x="1.1102535832414588" y="74.35600578871201" width="98.0" height="10.0" r="0" g="0" b="0" tolerance="30" invert="false"/>
+            <action name="Door vertical transition" matching="CONTAINS_INSENSITIVE" action="SPLIT"/>
+        </itembox>
+        <itembox name="Door vertical" duration="500">
+            <rectangle x="1.0" y="45.0" width="9.0" height="10.0" r="0" g="0" b="0" tolerance="30" invert="false"/>
+            <rectangle x="10.0" y="45.0" width="10.0" height="10.0" r="0" g="0" b="0" tolerance="30" invert="false"/>
+            <rectangle x="20.0" y="45.0" width="10.0" height="10.0" r="0" g="0" b="0" tolerance="30" invert="false"/>
+            <rectangle x="30.0" y="45.0" width="10.0" height="10.0" r="0" g="0" b="0" tolerance="30" invert="false"/>
+            <rectangle x="40.0" y="45.0" width="10.0" height="10.0" r="0" g="0" b="0" tolerance="30" invert="false"/>
+            <rectangle x="50.0" y="45.0" width="10.0" height="10.0" r="0" g="0" b="0" tolerance="30" invert="false"/>
+            <rectangle x="60.0" y="45.0" width="10.0" height="10.0" r="0" g="0" b="0" tolerance="30" invert="false"/>
+            <rectangle x="70.0" y="45.0" width="10.0" height="10.0" r="0" g="0" b="0" tolerance="30" invert="false"/>
+            <rectangle x="80.0" y="45.0" width="10.0" height="10.0" r="0" g="0" b="0" tolerance="30" invert="false"/>
+            <rectangle x="90.0" y="45.0" width="10.0" height="10.0" r="0" g="0" b="0" tolerance="30" invert="false"/>
+            <action name="Door vertical" matching="CONTAINS_INSENSITIVE" action="SPLIT"/>
+        </itembox>
+        <itembox name="Minimap - Sides" duration="500">
+            <rectangle x="82.08998926606087" y="0.6164085068662422" width="2.0" height="0.3" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="84.09133536780449" y="1.3903309263855994" width="0.3" height="2.0" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="81.86948209957794" y="3.8710789788066826" width="2.0" height="0.3" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="81.3721284014244" y="1.226396500156091" width="0.3" height="2.0" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="81.86800383924398" y="4.202421098178471" width="2.0" height="0.3" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="84.0897356828194" y="4.96900218476149" width="0.3" height="2.0" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="81.86960352422909" y="7.3772550831909935" width="2.0" height="0.3" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="81.37360666175837" y="5.108472198708493" width="0.3" height="2.0" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="81.97122442045514" y="8.060218053789956" width="2.0" height="0.3" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="84.0897356828194" y="8.734692561330531" width="0.3" height="2.0" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="81.9797356828194" y="11.128767490393193" width="2.0" height="0.3" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="81.3721284014244" y="8.734692561330528" width="0.3" height="2.0" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="84.96711608861035" y="0.7218112551114348" width="2.0" height="0.3" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="87.19440267388208" y="1.3576433810026618" width="0.3" height="2.0" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="84.86413835670147" y="3.7707258062361912" width="2.0" height="0.3" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="84.47827365282106" y="1.1937089547731512" width="0.3" height="2.0" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="84.9477262405632" y="4.3283686321606165" width="2.0" height="0.3" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="87.172056305167" y="5.128135184281349" width="0.3" height="2.0" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="84.95180272192556" y="7.396708938994644" width="2.0" height="0.3" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="84.45740554443995" y="5.108918558341276" width="0.3" height="2.0" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="84.81627809978355" y="8.07943467973002" width="2.0" height="0.3" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="87.15529652863071" y="8.715475935390456" width="0.3" height="2.0" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="84.83448428617137" y="11.147984116333264" width="2.0" height="0.3" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="84.43916750756969" y="8.898626987560034" width="0.3" height="2.0" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="88.05797982380466" y="0.7025946291713625" width="2.0" height="0.3" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="90.28378814874245" y="1.3576433810026596" width="0.3" height="2.0" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="88.18643959343395" y="3.7901515619454704" width="2.0" height="0.3" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="87.56925881266655" y="1.377069136711936" width="0.3" height="2.0" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="88.05650156347069" y="4.328368632160614" width="2.0" height="0.3" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="90.28526640907641" y="4.964200758051838" width="0.3" height="2.0" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="88.18496133309998" y="7.541217609514879" width="2.0" height="0.3" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="87.56765912768142" y="5.128135184281346" width="0.3" height="2.0" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="88.05797982380467" y="7.95414263514987" width="2.0" height="0.3" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="90.28526640907641" y="8.898626987560037" width="0.3" height="2.0" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="88.07470774985852" y="11.147774986564064" width="2.0" height="0.3" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="87.56765912768142" y="8.603545020346923" width="0.3" height="2.0" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="91.29672502715786" y="0.7218112551114357" width="2.0" height="0.3" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="93.41375802918814" y="1.5215778072321688" width="0.3" height="2.0" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="91.20467763030423" y="3.770934936005398" width="2.0" height="0.3" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="90.81083911203652" y="1.3384267550625881" width="0.3" height="2.0" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="91.29672502715785" y="4.328368632160612" width="2.0" height="0.3" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="93.41375802918814" y="5.128135184281344" width="0.3" height="2.0" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="91.42518479678712" y="7.396708938994648" width="2.0" height="0.3" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="90.80936085170254" y="4.944984132111764" width="0.3" height="2.0" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="91.40821402143096" y="8.06021805378995" width="2.0" height="0.3" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="93.52548987276357" y="8.734692561330524" width="0.3" height="2.0" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="91.31640947387965" y="11.147984116333264" width="2.0" height="0.3" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="90.69615074779317" y="8.734692561330524" width="0.3" height="2.0" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="94.42521664726958" y="0.6155267067021444" width="2.0" height="0.3" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="96.6539814928753" y="1.1937089547731512" width="0.3" height="2.0" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="94.44502251864252" y="3.877010354645483" width="2.0" height="0.3" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="93.93477452649523" y="1.5215778072321675" width="0.3" height="2.0" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="94.53547023051102" y="4.3283686321606085" width="2.0" height="0.3" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="96.65398149287529" y="4.800266331822326" width="0.3" height="2.0" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="94.44490109399138" y="7.396499809225441" width="2.0" height="0.3" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="93.8246423679049" y="4.964200758051834" width="0.3" height="2.0" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="94.20495233008899" y="8.07943467973002" width="2.0" height="0.3" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="96.54520616996781" y="8.734692561330524" width="0.3" height="2.0" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="94.44342283365742" y="11.147774986564064" width="2.0" height="0.3" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <rectangle x="93.9347745264952" y="8.734692561330524" width="0.3" height="2.0" r="255" g="255" b="255" tolerance="100" invert="false"/>
+            <action name="Minimap - Sides" matching="CONTAINS_INSENSITIVE" action="SPLIT"/>
+        </itembox>
+        <itembox name="Minimap" duration="500">
+            <rectangle x="82.08813559322034" y="1.6056426332288396" width="2.0" height="2.0" r="0" g="0" b="0" tolerance="30" invert="true"/>
+            <rectangle x="82.08813559322034" y="5.405642633228841" width="2.0" height="2.0" r="0" g="0" b="0" tolerance="30" invert="true"/>
+            <rectangle x="82.08813559322034" y="9.005642633228842" width="2.0" height="2.0" r="0" g="0" b="0" tolerance="30" invert="true"/>
+            <rectangle x="85.18813559322035" y="1.6056426332288396" width="2.0" height="2.0" r="0" g="0" b="0" tolerance="30" invert="true"/>
+            <rectangle x="85.18813559322035" y="5.405642633228841" width="2.0" height="2.0" r="0" g="0" b="0" tolerance="30" invert="true"/>
+            <rectangle x="85.18813559322035" y="9.005642633228842" width="2.0" height="2.0" r="0" g="0" b="0" tolerance="30" invert="true"/>
+            <rectangle x="88.38813559322034" y="1.6056426332288396" width="2.0" height="2.0" r="0" g="0" b="0" tolerance="30" invert="true"/>
+            <rectangle x="88.27788200997888" y="5.550360433518278" width="2.0" height="2.0" r="0" g="0" b="0" tolerance="30" invert="true"/>
+            <rectangle x="88.38813559322034" y="9.005642633228842" width="2.0" height="2.0" r="0" g="0" b="0" tolerance="30" invert="true"/>
+            <rectangle x="91.58813559322034" y="1.6056426332288396" width="2.0" height="2.0" r="0" g="0" b="0" tolerance="30" invert="true"/>
+            <rectangle x="91.58813559322034" y="5.405642633228841" width="2.0" height="2.0" r="0" g="0" b="0" tolerance="30" invert="true"/>
+            <rectangle x="91.58813559322034" y="9.005642633228842" width="2.0" height="2.0" r="0" g="0" b="0" tolerance="30" invert="true"/>
+            <rectangle x="94.68813559322035" y="1.6056426332288396" width="2.0" height="2.0" r="0" g="0" b="0" tolerance="30" invert="true"/>
+            <rectangle x="94.68813559322035" y="5.405642633228841" width="2.0" height="2.0" r="0" g="0" b="0" tolerance="30" invert="true"/>
+            <rectangle x="94.68813559322035" y="9.005642633228842" width="2.0" height="2.0" r="0" g="0" b="0" tolerance="30" invert="true"/>
+            <rectangle x="88.16787127603972" y="4.826980561840303" width="2.0" height="0.4" r="216" g="166" b="10" tolerance="30" invert="false"/>
+            <action name="Minimap" matching="CONTAINS_INSENSITIVE" action="SPLIT"/>
+        </itembox>
+        <itembox name="Elevator down" duration="500">
+            <rectangle x="1.0" y="18.0" width="98.0" height="50.0" r="0" g="0" b="0" tolerance="30" invert="false"/>
+            <action name="Elevator down" matching="CONTAINS_INSENSITIVE" action="SPLIT"/>
+        </itembox>
+        <itembox name="Black" duration="1000">
+            <rectangle x="81.4" y="2.8" width="16.0" height="11.6" r="0" g="0" b="0" tolerance="30" invert="false"/>
+            <rectangle x="1.0" y="2.8" width="90.0" height="11.6" r="0" g="0" b="0" tolerance="30" invert="false"/>
+            <action name="Black" matching="CONTAINS_INSENSITIVE" action="SPLIT"/>
+        </itembox>
+        <itembox name="Number 5:0" duration="4000">
+            <rectangle x="97.6373380650496" y="17.19825069715309" width="0.5" height="4.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="95.9967130650496" y="17.19825069715309" width="0.5" height="4.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.71388914719842" y="21.710485242712" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.7779630650496" y="16.885098296318017" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <action name="Number 5:0" matching="CONTAINS_INSENSITIVE" action="SPLIT"/>
+        </itembox>
+        <itembox name="Number 5:1" duration="4000">
+            <rectangle x="96.86556298235942" y="17.342968497442524" width="0.5" height="4.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.38312839747407" y="21.710485242711997" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.88821664829106" y="16.885098296318013" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <action name="Number 5:1" matching="CONTAINS_INSENSITIVE" action="SPLIT"/>
+        </itembox>
+        <itembox name="Number 5:2" duration="4000">
+            <rectangle x="96.4245486493936" y="16.908815096574216" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.49338198071553" y="21.56576744242256" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="97.65999173098125" y="18.042840698633498" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <action name="Number 5:2" matching="CONTAINS_INSENSITIVE" action="SPLIT"/>
+        </itembox>
+        <itembox name="Number 5:3" duration="4000">
+            <rectangle x="96.53480223263506" y="16.619379495995346" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.82414273043992" y="18.81612923692328" width="1.0" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.5574558985667" y="21.66078570586939" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="97.59591781313009" y="17.079515633450058" width="0.5" height="1.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.05236764774973" y="20.552742840396515" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="97.5959178131301" y="19.53971823837046" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.16262123099119" y="17.15911042360925" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <action name="Number 5:3" matching="CONTAINS_INSENSITIVE" action="SPLIT"/>
+        </itembox>
+        <itembox name="Number 5:4" duration="4000">
+            <rectangle x="96.00618798235942" y="20.79247890413278" width="2.0" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.60363556395698" y="18.237258035765546" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="97.15490348016428" y="16.934797833160623" width="0.5" height="5.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <action name="Number 5:4" matching="CONTAINS_INSENSITIVE" action="SPLIT"/>
+        </itembox>
+        <itembox name="Number 5:5" duration="4000">
+            <rectangle x="96.64505581587652" y="16.619379495995346" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.49338198071554" y="18.381975836054977" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.44720231532524" y="21.66078570586939" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.16262123099118" y="16.93479783316062" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.16262123099119" y="20.552742840396512" width="0.5" height="1.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="97.59591781313011" y="19.250282637791592" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <action name="Number 5:5" matching="CONTAINS_INSENSITIVE" action="SPLIT"/>
+        </itembox>
+        <itembox name="Number 5:6" duration="4000">
+            <rectangle x="96.31429506615216" y="16.908815096574216" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.38312839747408" y="18.960847037212716" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.55745589856669" y="21.66078570586939" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="97.59591781313009" y="17.36895123402893" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="95.94211406450826" y="17.368951234028927" width="0.5" height="3.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="97.59591781313009" y="19.97387163923877" width="0.5" height="1.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <action name="Number 5:6" matching="CONTAINS_INSENSITIVE" action="SPLIT"/>
+        </itembox>
+        <itembox name="Number 5:7" duration="4000">
+            <rectangle x="96.2040414829107" y="16.76409729628478" width="1.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.38312839747408" y="21.56576744242256" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="97.3292309812569" y="18.33227629921237" width="0.5" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <action name="Number 5:7" matching="CONTAINS_INSENSITIVE" action="SPLIT"/>
+        </itembox>
+        <itembox name="Number 5:8" duration="4000">
+            <rectangle x="96.4245486493936" y="16.76409729628478" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.38312839747408" y="18.960847037212716" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.44720231532524" y="21.805503506158825" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="95.94211406450826" y="17.079515633450054" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="95.94211406450827" y="19.829153838949335" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="97.59591781313009" y="17.079515633450058" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="97.5959178131301" y="19.829153838949335" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <action name="Number 5:8" matching="CONTAINS_INSENSITIVE" action="SPLIT"/>
+        </itembox>
+        <itembox name="Number 5:9" duration="4000">
+            <rectangle x="96.53480223263504" y="16.619379495995346" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.49338198071553" y="18.81612923692328" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.55745589856669" y="21.66078570586939" width="1.3" height="0.5" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.0523676477497" y="16.93479783316062" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="96.16262123099116" y="20.69746064068595" width="0.5" height="1.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="97.70617139637153" y="16.934797833160623" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <rectangle x="97.70617139637154" y="19.6844360386599" width="0.5" height="2.0" r="214" g="211" b="255" tolerance="50" invert="false"/>
+            <action name="Number 5:9" matching="CONTAINS_INSENSITIVE" action="SPLIT"/>
+        </itembox>
+    </itemboxes>
+</smsplit>
